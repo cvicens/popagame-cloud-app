@@ -1,15 +1,154 @@
 {
     "id": "0001",
-    "chef": "0001",
-
-    "recipe": "0001",
-
-    "address" : "Calle Alcalá 1",
-    "city" : "MADRID",
-    "province" : "MADRID",
-    "country" : "SPAIN",
-
-    "date": "2017-05-14",
-    "startTime" : "18:00",
-    "endTime" : "21:00"
+    "title": "Country Meeting FY17Q2 Kick-Off",
+    "quizId": "0003",
+    "address": "Paseo de la Castellana 259C",
+    "city": "MADRID",
+    "province": "MADRID",
+    "country": "SPAIN",
+    "date": "2017-09-11",
+    "startTime": "10:00",
+    "endTime": "21:00",
+    "hashtag": "#madrid17Q1",
+    "agenda": [
+        {
+            "day": 1,
+            "segments": [
+                {
+                    "slot": "9:30am",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Recogida en las oficinas de Red Hat",
+                            "slug": "day-1-pick-up",
+                            "location": "Red Hat Office, MAdrid",
+                            "startTime": "2017-06-09T07:30:00.000Z",
+                            "endTime": "2017-06-09T08:00:00.000",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "xeBniOY5Qb",
+                            "sortTime": "1497000600",
+                            "displayTime": "9:30am"
+                        }
+                    ]
+                },
+                {
+                    "slot": "10:00am",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Café de bienvenida",
+                            "slug": "day-1-breakfast",
+                            "location": "Hall, Las Rozas",
+                            "startTime": "2017-06-09T08:00:00.000Z",
+                            "endTime": "2017-06-09T08:30:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497002400",
+                            "displayTime": "10:00am"
+                        }
+                    ]
+                },
+                {
+                    "slot": "10:30am",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Country Meeting - Sala de conferencias",
+                            "slug": "day-1-contry-meeting",
+                            "location": "Sala conferencias, Las Rozas",
+                            "startTime": "2017-06-09T08:30:00.000Z",
+                            "endTime": "2017-06-09T10:30:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497004200",
+                            "displayTime": "10:30am"
+                        }
+                    ]
+                },
+                {
+                    "slot": "12:30am",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Preparación Técnica - Actividad en equipo",
+                            "slug": "day-1-team-building-prep",
+                            "location": "Sala conferencias, Las Rozas",
+                            "startTime": "2017-06-09T10:30:00.000Z",
+                            "endTime": "2017-06-09T11:00:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497011400",
+                            "displayTime": "12:30am"
+                        }
+                    ]
+                },
+                {
+                    "slot": "01:00pm",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Open Bar & Actividad de equipo",
+                            "slug": "day-1-team-building-activity",
+                            "location": "Túnel del viento",
+                            "startTime": "2017-06-09T11:00:00.000Z",
+                            "endTime": "2017-06-09T13:00:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497013200",
+                            "displayTime": "01:00pm"
+                        }
+                    ]
+                },
+                {
+                    "slot": "03:00pm",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Almuerzo - Cocktail",
+                            "slug": "day-1-lunch",
+                            "location": "Bar",
+                            "startTime": "2017-06-09T13:00:00.000Z",
+                            "endTime": "2017-06-09T15:00:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497020400",
+                            "displayTime": "03:00pm"
+                        }
+                    ]
+                },
+                {
+                    "slot": "05:00pm",
+                    "sessions": [
+                        {
+                            "day": 1,
+                            "title": "Regreso a las oficinas de Red Hat",
+                            "slug": "day-1-return",
+                            "location": "Bus Station",
+                            "startTime": "2017-06-09T15:00:00.000Z",
+                            "endTime": "2017-06-09T15:30:00.000Z",
+                            "hasDetails": false,
+                            "onMySchedule": false,
+                            "allDay": false,
+                            "objectId": "TCICVoDUMX",
+                            "sortTime": "1497027600",
+                            "displayTime": "05:00pm"
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "_id": "5a70a36f1be8fc57086663c5"
 }
