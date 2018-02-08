@@ -45,6 +45,8 @@ app.use('/service', require('./lib/service.js')());
 app.use('/events', require('./lib/events.js')());
 app.use('/quizzes', require('./lib/quizzes.js').route());
 
+app.use('/ranking', require('./lib/ranking.js')());
+
 // Important that this is last!
 app.use(mbaasExpress.errorHandler());
 
