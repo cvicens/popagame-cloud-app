@@ -44,7 +44,7 @@ app.use('/service', require('./lib/service.js')());
 
 app.use('/events', require('./lib/events.js')());
 app.use('/answers', require('./lib/answers.js')());
-app.use('/quizzes', require('./lib/quizzes.js').route());
+app.use('/quizzes', require('./lib/quizzes.js')());
 
 app.use('/ranking', require('./lib/ranking.js')());
 
