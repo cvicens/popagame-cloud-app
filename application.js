@@ -43,6 +43,7 @@ app.use('/hello', require('./lib/hello.js')());
 app.use('/service', require('./lib/service.js')());
 
 app.use('/events', require('./lib/events.js')());
+app.use('/answers', require('./lib/answers.js')());
 app.use('/quizzes', require('./lib/quizzes.js').route());
 
 app.use('/ranking', require('./lib/ranking.js')());
